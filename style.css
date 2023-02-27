@@ -1,0 +1,17 @@
+#card1{
+    background-image: url('./images/de.jpg');
+}
+body{
+    background-image:url('./images/back.webp') ;
+}
+#Weather{
+    background-color: antiquewhite;
+    color: black;
+    outline: none;
+}
+
+#Weather::placeholder{
+
+    color:magenta;
+    opacity: 0.5;
+}
